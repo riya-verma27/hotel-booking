@@ -30,6 +30,7 @@
 - **React Hooks**: `useState`, `useEffect`, `useNavigate`
 - **Tailwind CSS**
 - **react-hot-toast**
+- **React Context API**
 
 ### 🔙 Backend
 - **Node.js** & **Express.js**
