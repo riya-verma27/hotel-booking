@@ -1,5 +1,6 @@
 # 🏨 QuickStay – Hotel Management App
-##LIVE LINK : https://quickstay-swart.vercel.app/
+## LIVE LINK : https://quickstay-swart.vercel.app/
+
 **QuickStay** is a full-stack Hotel Booking application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It allows users to browse hotels, check room availability, apply filters, make bookings, and securely pay using Stripe. Hotel owners can register and manage rooms, and users receive booking confirmation via email.
 
 ---
